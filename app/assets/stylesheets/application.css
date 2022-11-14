@@ -24,3 +24,12 @@
   background-color: rgb(255, 249, 231);
 }
 
+.input-border-fix-right {
+  border-top-right-radius: 0 !important;
+  border-bottom-right-radius: 0 !important;
+}
+
+.btn-border-fix-left {
+  border-top-left-radius: 0 !important;
+  border-bottom-left-radius: 0 !important;
+}
